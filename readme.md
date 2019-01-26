@@ -18,9 +18,9 @@ Si quéres colaborar en este repositorio estos son los pasos a seguir:
 
 *  Entramos a chrome://extensions
 *  Le damos a developer mode.
-![alt text](.images/readme1.png "")
+![alt text](./images/readme1.png "")
 *  Cargamos el carpeta de nuestra aplicación en 'load unpackage'
-![alt text](.images/readme2.png "")
+![alt text](./images/readme2.png "")
 
 
 ## Estilo de CSS
