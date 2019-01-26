@@ -30,7 +30,7 @@ Si quéres colaborar en este repositorio estos son los pasos a seguir:
 4)  Instalar dependencias de desarrollo
 ` npm i . `
 
-5) Para trabajar sobre nuestro ejemplo. Cambiale el nombre al archivo ".env.default" a ".env", pedile a Patricio las credenciales  y luego dale a ` npm decrypt `. De esa manera vas a tener el archivo **js/data.json**.
+5) Para trabajar sobre nuestro ejemplo. Cambiale el nombre al archivo ".env.default" a ".env", pedile a Patricio las credenciales  y luego dale a ` npm run decrypt `. De esa manera vas a tener el archivo **js/data.json**.
 
 
 ## Estilo de CSS
