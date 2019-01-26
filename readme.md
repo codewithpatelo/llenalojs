@@ -9,7 +9,7 @@
 
 Esta extensión de Chrome ayuda a la gente a llenar de manera autómatica extensos formularios a través de posteos automatizados. Esta extensión es 100% open-source, licencia MIT y abierta a la comunidad. La mantenemos en el grupo 'PodemosAprender' (https://www.facebook.com/podemosaprendermas/). Esta extensión se puede usar para automatización de procesos, como el llenalo de grandes plantilllas de datos de una manera más automatizada. 
 
-## Instalación para entorno de desarrolo
+## Instalación para entorno de desarrollo
 
 Si quéres colaborar en este repositorio estos son los pasos a seguir:
 
