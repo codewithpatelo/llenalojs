@@ -1,6 +1,6 @@
 const should = require('chai').should();
 
-const myPackage = require('../src/index.js');
+const myPackage = require('../js/background.js');
 
 
 describe('TEST1', () => {
