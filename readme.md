@@ -27,7 +27,7 @@ Si quéres colaborar en este repositorio estos son los pasos a seguir:
 
 ## Estilo de CSS
 
--   Material Design Lite
+-   [MDL](https://getmdl.io/ "Material Design Lite")
 
 ## Package roadmap
 
@@ -52,7 +52,7 @@ MIT
 *  Fijate de testear todo código nuevo con chai. El archivo para los tests es **test/test.js**. Y ejecutamos la prueba con ` npm run test ` .
 *  Antes de comitear dale ` npm run lint -- --fix ` para lintear el código.
 *  Una vez que pusheaste y/o se aceptó tu pull request fijate de chequear que puedas correr la extensión y corra el build en travis.
-[](https://travis-ci.org/patelotech/llenalojs "")
+[](https://travis-ci.org/patelotech/llenalojs "Link")
 *  Para empaquetar la extensión dale a ` npm run zip ` .Eso te va a servir para luego publicar la extensión en Chrome:
 [Link](https://chrome.google.com/webstore/developer/update "Link")
 
