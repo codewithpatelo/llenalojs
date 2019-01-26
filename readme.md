@@ -5,6 +5,8 @@
 [![dependencies Status](https://david-dm.org/patelotech/project/status.svg)](https://david-dm.org/patelotech/project)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubpatelotechcontent.com/patelotech/project/master/LICENSE) 
 
+![alt text](readme3.png "")
+
 Esta extensión de Chrome ayuda a la gente a llenar de manera autómatica extensos formularios a través de posteos automatizados. Esta extensión es 100% open-source, licencia MIT y abierta a la comunidad. La mantenemos en el grupo 'PodemosAprender' (https://www.facebook.com/podemosaprendermas/). Esta extensión se puede usar para automatización de procesos, como el llenalo de grandes plantilllas de datos de una manera más automatizada. 
 
 ## Instalación para entorno de desarrolo
@@ -47,7 +49,10 @@ MIT
 *  El archivo **js/background.js** es donde se ejecuta el código que queremos.
 *  El archivo **popup.html** es donde esta la UI de nuestra extensión.
 *  Usamos estilo de código AIRBNB. [AIRBNB JS CODE STYLE](https://dev.mysql.com/doc/ "AIRBNB JS CODE STYLE")
+*  Fijate de testear todo código nuevo con chai. El archivo para los tests es **test/test.js**. Y ejecutamos la prueba con ` npm run test ` .
 *  Antes de comitear dale ` npm run lint -- --fix ` para lintear el código.
 *  Una vez que pusheaste y/o se aceptó tu pull request fijate de chequear que puedas correr la extensión y corra el build en travis.
 [](https://travis-ci.org/patelotech/llenalojs "")
+*  Para empaquetar la extensión dale a ` npm run zip ` .Eso te va a servir para luego publicar la extensión en Chrome:
+[Link](https://chrome.google.com/webstore/developer/update "Link")
 
