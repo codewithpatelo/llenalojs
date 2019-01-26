@@ -51,8 +51,8 @@ MIT
 *  Usamos estilo de código AIRBNB. [AIRBNB JS CODE STYLE](https://dev.mysql.com/doc/ "AIRBNB JS CODE STYLE")
 *  Fijate de testear todo código nuevo con chai. El archivo para los tests es **test/test.js**. Y ejecutamos la prueba con ` npm run test ` .
 *  Antes de comitear dale ` npm run lint -- --fix ` para lintear el código.
-*  Una vez que pusheaste y/o se aceptó tu pull request fijate de chequear que puedas correr la extensión y corra el build en travis.
-[](https://travis-ci.org/patelotech/llenalojs "Link")
+*  Una vez que pusheaste y/o se aceptó tu pull request fijate de chequear que puedas correr la extensión y corra el build en travis:
+[Link](https://travis-ci.org/patelotech/llenalojs "Link")
 *  Para empaquetar la extensión dale a ` npm run zip ` .Eso te va a servir para luego publicar la extensión en Chrome:
 [Link](https://chrome.google.com/webstore/developer/update "Link")
 
