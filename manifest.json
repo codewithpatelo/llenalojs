@@ -1,7 +1,7 @@
  {
     "name": "LlenaloJS",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "Llenar formularios ahora es facil!",
     "permissions": ["storage"],
     "background": {
       "scripts": ["js/background.js"],
