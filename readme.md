@@ -13,10 +13,13 @@ Esta extensión de Chrome ayuda a la gente a llenar de manera autómatica extens
 
 Si quéres colaborar en este repositorio estos son los pasos a seguir:
 
-1)  Clonar el repositorio
-` git clone https://github.com/patelotech/llenalojs.git `
+1)  Forkear el repositorio
+![alt text](http://icons.deanishe.net/icon/octicons/444/git-pull-request/256.png "")
 
-2)  Configuramos la extensión en Chrome
+2)  Clonar el repositorio
+` git clone https://github.com/tuUsuario/llenalojs.git `
+
+3)  Configuramos la extensión en Chrome
 
 *  Entramos a chrome://extensions
 *  Le damos a developer mode.
