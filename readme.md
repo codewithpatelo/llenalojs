@@ -18,9 +18,9 @@ Si quéres colaborar en este repositorio estos son los pasos a seguir:
 
 *  Entramos a chrome://extensions
 *  Le damos a developer mode.
-![alt text](./images/readme1.png "")
+![alt text](readme1.png "")
 *  Cargamos el carpeta de nuestra aplicación en 'load unpackage'
-![alt text](./images/readme2.png "")
+![alt text](readme2.png "")
 
 
 ## Estilo de CSS
@@ -41,9 +41,9 @@ MIT
 ## Contribuir
 
 *  Fijate de leer la documentación para crear extensiones de Chrome:
-[](https://developer.chrome.com/extensions/getstarted "")
+[Link](https://developer.chrome.com/extensions/getstarted "Link")
 *  Asegurate de leer las guias para desarrollar extensiones en Chrome:
-[](https://developer.chrome.com/extensions/single_purpose "")
+[Link](https://developer.chrome.com/extensions/single_purpose "Link")
 *  El archivo **js/background.js** es donde se ejecuta el código que queremos.
 *  El archivo **popup.html** es donde esta la UI de nuestra extensión.
 *  Usamos estilo de código AIRBNB. [AIRBNB JS CODE STYLE](https://dev.mysql.com/doc/ "AIRBNB JS CODE STYLE")
