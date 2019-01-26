@@ -1,6 +1,7 @@
 /node_modules
 /coverage
 /js/data.json
+/js/encrypt.js
 /.nyc_output
 .coveralls.yml
 .env
