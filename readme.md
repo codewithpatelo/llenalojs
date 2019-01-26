@@ -24,7 +24,7 @@ Si quéres colaborar en este repositorio estos son los pasos a seguir:
 *  Entramos a chrome://extensions
 *  Le damos a developer mode.
 ![alt text](readme1.png "")
-*  Cargamos el carpeta de nuestra aplicación en 'load unpackage'
+*  Cargamos la carpeta de nuestra aplicación en 'load unpackage'
 ![alt text](readme2.png "")
 
 4)  Instalar dependencias de desarrollo
