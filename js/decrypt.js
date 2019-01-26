@@ -1,9 +1,10 @@
-require('dotenv').config()
+require('dotenv').config();
 const fs = require('fs');
+
 const d = process.env.MENSAJE;
 
 const key = process.env.CLAVE;
- 
+
 const encryptor = require('simple-encryptor')(key);
 
 const data = JSON.stringify(encryptor.decrypt(d));
