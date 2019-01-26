@@ -27,6 +27,9 @@ Si quéres colaborar en este repositorio estos son los pasos a seguir:
 *  Cargamos el carpeta de nuestra aplicación en 'load unpackage'
 ![alt text](readme2.png "")
 
+4)  Instalar dependencias de desarrollo
+` npm i . `
+
 
 ## Estilo de CSS
 
