@@ -1,6 +1,6 @@
 # LlenaloJS
 [![npm version](https://badge.fury.io/js/recht.svg)](https://badge.fury.io/js/recht)
-[![build](https://travis-ci.org/patelotech/llenalojs.svg?branch=master)](https://travis-ci.org/patelotech/llenalojs)
+[![build](https://travis-ci.com/patelotech/llenalojs.svg?branch=master)](https://travis-ci.com/patelotech/llenalojs)
 [![Coverage Status](https://coveralls.io/repos/github/patelotech/project/badge.svg?branch=master)](https://coveralls.io/github/patelotech/project?branch=master)
 [![dependencies Status](https://david-dm.org/patelotech/project/status.svg)](https://david-dm.org/patelotech/project)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubpatelotechcontent.com/patelotech/project/master/LICENSE) 
@@ -17,7 +17,7 @@ Si quéres colaborar en este repositorio estos son los pasos a seguir:
 ![alt text](http://icons.deanishe.net/icon/octicons/444/git-pull-request/256.png "")
 
 2)  Clonar el repositorio
-` git clone https://github.com/tuUsuario/llenalojs.git `
+` git clone https://github.com/<tuUsuario>/llenalojs.git `
 
 3)  Configuramos la extensión en Chrome
 
@@ -32,7 +32,7 @@ Si quéres colaborar en este repositorio estos son los pasos a seguir:
 
 -   [MDL](https://getmdl.io/ "Material Design Lite")
 
-## Package roadmap
+## Hoja de ruta de la extensión
 
 -   [ ] Llenar un formulario de manera automatica.
 -   [ ] Agregar opciones personalizadas.
@@ -55,7 +55,7 @@ MIT
 *  Fijate de testear todo código nuevo con chai. El archivo para los tests es **test/test.js**. Y ejecutamos la prueba con ` npm run test ` .
 *  Antes de comitear dale ` npm run lint -- --fix ` para lintear el código.
 *  Una vez que pusheaste y/o se aceptó tu pull request fijate de chequear que puedas correr la extensión y corra el build en travis:
-[Link](https://travis-ci.org/patelotech/llenalojs "Link")
+[Link](https://travis-ci.com/patelotech/llenalojs "Link")
 *  Para empaquetar la extensión dale a ` npm run zip ` .Eso te va a servir para luego publicar la extensión en Chrome:
 [Link](https://chrome.google.com/webstore/developer/update "Link")
 
